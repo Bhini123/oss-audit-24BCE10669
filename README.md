@@ -33,6 +33,6 @@ Screenshots of code and outputs are included in the report.
 - Bash Shell
 
 ## 📌 Author
-Bhini
+Bhini Dua
 Roll No: 24BCE10669
 
